@@ -1,0 +1,21 @@
+# ==========================================
+# Ignorar arquivos gerados por IDEs/Editores
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# Ignorar arquivos do Sistema Operacional
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# Ignorar pastas de Inteligência Artificial
+# e Ferramentas Antigravity Agent
+# ==========================================
+.agent/
+.gemini/
